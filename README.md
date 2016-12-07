@@ -1,4 +1,4 @@
-# pluginunmarshal [![Build Status](https://secure.travis-ci.org/tcard/pluginunmarshal.svg?branch=master)](http://travis-ci.org/tcard/pluginunmarshal)
+# pluginunmarshal [![Build Status](https://secure.travis-ci.org/tcard/pluginunmarshal.svg?branch=master)](http://travis-ci.org/tcard/pluginunmarshal) [![GoDoc](https://godoc.org/github.com/tcard/pluginunmarshal?status.svg)](https://godoc.org/github.com/tcard/pluginunmarshal)
 
 Package pluginunmarshal unmarshals Go plugins into structs.
 
